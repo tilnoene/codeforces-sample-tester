@@ -20,6 +20,8 @@ sudo apt-get install python3 python3-pip
 pip3 install bs4
 ```
 
+**_Works only in contests from 1300 onwards_**
+
 ### 🛠 Running the samples
 Save the archive like `problem.cpp` and run:
 
