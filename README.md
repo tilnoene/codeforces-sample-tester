@@ -3,8 +3,7 @@
 ### ⚙️ Generating samples
 First, it is necessary to generate the files containing the samples, to do this, just run:
 
-`cf_sample_gen.sh contest_id` on Ubuntu<br />
-`dash cf_sample_gen.sh contest_id` on WSL
+`dash cf_sample_gen.sh contest_id`
 
 ```
 Example:
@@ -25,8 +24,7 @@ pip3 install bs4
 ### 🛠 Running the samples
 Save the archive like `problem.cpp` and run:
 
-`runsamples.sh problem` on Ubuntu<br />
-`dash runsamples.sh problem` on WSL
+`dash runsamples.sh problem`
 
 ```
 Example:
